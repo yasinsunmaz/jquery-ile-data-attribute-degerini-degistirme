@@ -1,0 +1,25 @@
+/**
+  * Created by Yasin Sunmaz
+  * Date: 08.04.2019
+  * Time: 21:10
+  */
+h3.categories{
+  padding:5px 0;
+  font-size:18px;
+  color:#333641;
+  border-bottom:2px solid #00aabf;
+}
+a.category{
+    padding: 3px 5px;
+    background-color: #00aabf;
+    border: 1px solid #00aabf;
+    text-align: center;
+    font-size: 14px;
+    color: #ffffff;
+    text-decoration: none;    
+}
+a.category:hover{   
+    background-color: #ffffff;
+    border: 1px solid #00aabf;   
+    color: #00aabf;   
+}
